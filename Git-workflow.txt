@@ -9,10 +9,17 @@
 3. Stage , commit and push:
     git add .
     git commit -m "message"
-    git push origin <branch-name>
+    git push origin <branch-name> (probs new branch)
 
-4. Open a pull request on GitHub => Merge
+4. Open a pull request on GitHub => Merge (merge with main)
 
-5. Switch branch: git checkout <branch-name>
+5. Switch branch: git checkout <branch-name> (probs main)
 
-6. Pull updates from repo: git pull origin <branch-name>
+6. Pull updates from repo: git pull origin <branch-name> (probs main)
+
+
+This is the THIRD-branch
+
+    BLAaaaaablaaaaaablaaaaa
+    etc
+    etc
