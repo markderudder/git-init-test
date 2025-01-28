@@ -16,3 +16,10 @@
 5. Switch branch: git checkout <branch-name>
 
 6. Pull updates from repo: git pull origin <branch-name>
+
+
+This is the THIRD-branch
+
+    BLAaaaaablaaaaaablaaaaa
+    etc
+    etc
