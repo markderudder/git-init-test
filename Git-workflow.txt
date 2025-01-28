@@ -1,0 +1,18 @@
+1. Clone a repo or create a git repo:
+    git clone <repo-address>
+    OR git init <repo-name>
+        then create repo in GitHub and then link it to it:
+            git remote add origin https://github.com/your-username/your-repo.git
+
+2. Create new branch: git checkout -b <branch-name>
+
+3. Stage , commit and push:
+    git add .
+    git commit -m "message"
+    git push origin <branch-name>
+
+4. Open a pull request on GitHub => Merge
+
+5. Switch branch: git checkout <branch-name>
+
+6. Pull updates from repo: git pull origin <branch-name>
